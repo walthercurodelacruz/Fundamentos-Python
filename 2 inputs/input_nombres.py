@@ -1,5 +1,5 @@
 #pedirle un dato al usuario
-nombre = input("che maestro, dame tu nombre: ")
+nombre = input("Tu Nombre: ")
 
 #mostrando el dato
 print(f'el nombre es: {nombre}')
