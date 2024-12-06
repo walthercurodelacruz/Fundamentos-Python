@@ -19,7 +19,7 @@ c = 20
 comparacion = a + b < c
 
 #comparar usuarios
-contraseña_almacenada = "DaltoMaestro"
-contraseña_escrita = '''DaltoMaestro'''
+contraseña_almacenada = "12345678"
+contraseña_escrita = '''12345678'''
 
 print(contraseña_almacenada == contraseña_escrita)
