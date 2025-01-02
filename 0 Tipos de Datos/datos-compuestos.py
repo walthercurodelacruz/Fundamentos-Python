@@ -1,6 +1,6 @@
 
 #creando una lista (se pueden modificar)
-lista = ["Walther De la Cruz",True, 1.85, "De La Cruz"]
+lista = ["Walther De la Cruz",True, 1.85, "De La Cruz"] 
 
 #creando una tupla (no pueden modificar)
 tupla = ("Walther Curo",True, 1.85, "De La Cruz")
